@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_activity"
+        android:icon="@drawable/activity_navbar"
+        android:title="Активность"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/profile_navbar"
+        android:title="Профиль"/>
+</menu>

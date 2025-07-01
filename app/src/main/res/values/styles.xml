@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextHeadlineBold"
+        parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">?attr/colorOnBackground</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="TextSubtitle"
+        parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?attr/android:textColorSecondary</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="Widget.My.Button" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">?attr/colorPrimary</item>
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+        <item name="cornerRadius">16dp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActivitiesFEFU</string>
+
+    <string name="logo_desc">Логотип Activity</string>
+
+    <string name="title">Пожалуй лучший&#10;фитнес трекер в ДВФУ</string>
+    <string name="subtitle">Созданный студентами&#10;2‑ого курса</string>
+    <string name="btn_register">Зарегистрироваться</string>
+    <string name="have_account">Уже есть аккаунт?</string>
+
+    <string name="back_button_desc">Назад</string>
+    <string name="registration">Регистрация</string>
+    <string name="hint_login">Логин</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_repeat_password">Повторите пароль</string>
+    <string name="hint_name">Имя или никнейм</string>
+    <string name="hint_gender">Пол</string>
+    <string name="btn_continue">Продолжить</string>
+
+    <string name="Login">Вход</string>
+
+    <string name="agreement_full">Нажимая на кнопку, вы соглашаетесь с политикой конфиденциальности и обработкой персональных данных, а также принимаете пользовательское соглашение</string>
+    <string name="privacy">политикой конфиденциальности</string>
+    <string name="agreement">пользовательское соглашение</string>
+    <string name="hello_blank_fragment">Пустой фрагмент</string>
+    <string name="stats">Статистика</string>
+    <string name="history">История</string>
+
+</resources>
